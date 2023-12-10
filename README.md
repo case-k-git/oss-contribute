@@ -3,9 +3,10 @@
 | oss                                | type         | url                                                                    |
 | ---------------------------------- | ------------ | ---------------------------------------------------------------------- |
 | terraform-provider-databricks      | pull request | https://github.com/databricks/terraform-provider-databricks/pull/3000  |
+| dbt-databricks                     | pull request | https://github.com/databricks/dbt-databricks/pull/530                  |
 | embulk-output-bigquery             | pull request | https://github.com/embulk/embulk-output-bigquery/pull/133              |
 | embulk-output-bigquery             | issue        | https://github.com/embulk/embulk-output-bigquery/issues/138            |
-| embulk-input-jdbc                  | issue        | https://github.com/embulk/embulk-input-jdbc/pull/225                   |
+| embulk-input-jdbc                  | pull request | https://github.com/embulk/embulk-input-jdbc/pull/225                   |
 | fluent-plugin-gcloud-pubsub-custom | pull request | https://github.com/mia-0032/fluent-plugin-gcloud-pubsub-custom/pull/75 |
 | fluent-plugin-gcloud-pubsub-custom | pull request | https://github.com/mia-0032/fluent-plugin-gcloud-pubsub-custom/pull/76 |
 | fluent-plugin-gcloud-pubsub-custom | pull request | https://github.com/mia-0032/fluent-plugin-gcloud-pubsub-custom/pull/76 |
