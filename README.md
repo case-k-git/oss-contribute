@@ -14,3 +14,7 @@
 | beam                               | pull request | https://github.com/apache/beam/pull/27405                              |
 | beam-starter-go                    | pull request | https://github.com/apache/beam-starter-go/pull/17                      |
 | redash                             | pull request | https://github.com/getredash/redash/pull/5482                          |
+| DataflowTemplates                  | pull request | https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/258      |
+| DataflowTemplates                  | pull request | https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/259      |
+| DataflowTemplates                  | issue        | https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/372      |
+| DataflowTemplates                  | pull request | https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/371      |
