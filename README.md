@@ -3,6 +3,7 @@
 | oss                                | type         | url                                                                     |
 | ---------------------------------- | ------------ | ----------------------------------------------------------------------- |
 | terraform-provider-databricks      | pull request | https://github.com/databricks/terraform-provider-databricks/pull/3000   |
+| terraform-provider-databricks      | pull request | https://github.com/databricks/terraform-provider-databricks/pull/3020   |
 | terraform-provider-databricks      | issue        | https://github.com/databricks/terraform-provider-databricks/issues/3019 |
 | dbt-databricks                     | pull request | https://github.com/databricks/dbt-databricks/pull/530                   |
 | embulk-output-bigquery             | pull request | https://github.com/embulk/embulk-output-bigquery/pull/133               |
