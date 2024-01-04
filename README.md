@@ -8,6 +8,8 @@
 | terraform-provider-databricks      | pull request | https://github.com/databricks/terraform-provider-databricks/pull/3020   | open    |
 | terraform-provider-databricks      | issue        | https://github.com/databricks/terraform-provider-databricks/issues/3019 | open    |
 | dbt-databricks                     | pull request | https://github.com/databricks/dbt-databricks/pull/530                   | open    |
+| dbt-databricks                     | pull request | https://github.com/databricks/dbt-databricks/pull/537                   | merge   |
+| dbt-databricks                     | pull request | https://github.com/databricks/dbt-databricks/pull/541                   | merge   |
 | embulk-output-bigquery             | pull request | https://github.com/embulk/embulk-output-bigquery/pull/133               | merged  |
 | embulk-output-bigquery             | issue        | https://github.com/embulk/embulk-output-bigquery/issues/138             | close   |
 | embulk-input-jdbc                  | pull request | https://github.com/embulk/embulk-input-jdbc/pull/225                    | open    |
