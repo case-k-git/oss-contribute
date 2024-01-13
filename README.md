@@ -1,6 +1,6 @@
 # oss-contribution
 
-| oss                                | title & url                                                                                                                                 | status |
+| Open Source Repositories           | Title & Url                                                                                                                                 | Status |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | terraform-provider-databricks      | Sort based on the Task Key specified in the 'Depends On' field https://github.com/databricks/terraform-provider-databricks/pull/3000        | merged |
 | terraform-provider-databricks      | Added an item to check if the ticket opener wants to do a bug fix https://github.com/databricks/terraform-provider-databricks/pull/3020     | merged |
