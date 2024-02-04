@@ -3,6 +3,7 @@
 | Open Source Repositories           | Title & Url                                                                                                                                 | Status |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | terraform-provider-databricks      | Sort based on the Task Key specified in the 'Depends On' field https://github.com/databricks/terraform-provider-databricks/pull/3000        | merged |
+| terraform-provider-databricks      | Add Test Code for Sorting Tasks in the 'Depends On' Field of a Job https://github.com/databricks/terraform-provider-databricks/pull/3183    | merged |
 | terraform-provider-databricks      | Added an item to check if the ticket opener wants to do a bug fix https://github.com/databricks/terraform-provider-databricks/pull/3020     | merged |
 | dbt-databricks                     | Fix dbt incremental_strategy behavior by fixing schema table existing check https://github.com/databricks/dbt-databricks/pull/530           | merged |
 | dbt-databricks                     | Add DBT_DATABRICKS_UC_INITIAL_CATALOG Option https://github.com/databricks/dbt-databricks/pull/537                                          | merged |
