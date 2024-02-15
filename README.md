@@ -2,7 +2,6 @@
 
 | Open Source Repositories           | Title & Url                                                                                                                                                                      | Status |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| terraform-provider-databricks      | Fix ViewDefinition Unexpected Diff Detection When Created By Here-document https://github.com/databricks/terraform-provider-databricks/pull/3250                                 | open   |
 | terraform-provider-databricks      | Sort based on the Task Key specified in the 'Depends On' field https://github.com/databricks/terraform-provider-databricks/pull/3000                                             | merged |
 | terraform-provider-databricks      | Add Test Code for Sorting Tasks in the 'Depends On' Field of a Job https://github.com/databricks/terraform-provider-databricks/pull/3183                                         | merged |
 | terraform-provider-databricks      | Added an item to check if the ticket opener wants to do a bug fix https://github.com/databricks/terraform-provider-databricks/pull/3020                                          | merged |
