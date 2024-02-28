@@ -2,6 +2,7 @@
 
 | Open Source Repositories           | Title & Url                                                                                                                                                                      | Status |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| beam                               | Add test code to overwrite SQL in Beam Python JDBC field https://github.com/apache/beam/pull/30417                                                                               | open   |
 | terraform-provider-databricks      | Sort based on the Task Key specified in the 'Depends On' field https://github.com/databricks/terraform-provider-databricks/pull/3000                                             | merged |
 | terraform-provider-databricks      | Add Test Code for Sorting Tasks in the 'Depends On' Field of a Job https://github.com/databricks/terraform-provider-databricks/pull/3183                                         | merged |
 | terraform-provider-databricks      | Added an item to check if the ticket opener wants to do a bug fix https://github.com/databricks/terraform-provider-databricks/pull/3020                                          | merged |
