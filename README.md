@@ -2,6 +2,7 @@
 
 | Open Source Repositories           | Title & Url                                                                                                                                                                      | Status |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| openai-python                      | Add Request Header Exlude Option For Debug logging https://github.com/openai/openai-python/pull/1231                                                                             | open   |
 | beam                               | Add test code to overwrite SQL in Beam Python JDBC https://github.com/apache/beam/pull/30417                                                                                     | merged |
 | terraform-provider-databricks      | Sort based on the Task Key specified in the 'Depends On' field https://github.com/databricks/terraform-provider-databricks/pull/3000                                             | merged |
 | terraform-provider-databricks      | Add Test Code for Sorting Tasks in the 'Depends On' Field of a Job https://github.com/databricks/terraform-provider-databricks/pull/3183                                         | merged |
