@@ -2,6 +2,7 @@
 
 | Open Source Repositories           | Title & Url                                                                                                                                                                      | Status |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| langchain                          | fix databricks document url https://github.com/langchain-ai/langchain/pull/19096                                                                                                 | merged |
 | openai-python                      | Add Request Header Exlude Option For Debug logging https://github.com/openai/openai-python/pull/1231                                                                             | open   |
 | beam                               | Add test code to overwrite SQL in Beam Python JDBC https://github.com/apache/beam/pull/30417                                                                                     | merged |
 | terraform-provider-databricks      | Sort based on the Task Key specified in the 'Depends On' field https://github.com/databricks/terraform-provider-databricks/pull/3000                                             | merged |
