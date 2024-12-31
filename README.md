@@ -29,4 +29,4 @@
 | DataflowTemplates                  | Cloud Pub/Sub to AWS Kinesis IO And AWS Kinesis to BigQuery IO https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/258                                                 | open   |
 | DataflowTemplates                  | add PubSubToPubSub idattribute options to remove message duplication https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/259                                           | open   |
 | DataflowTemplates                  | fix jdbc to BigQuery datetime template https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/372                                                                         | close  |
-| DataflowTemplates                  | update & add jdbc template https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/371                                                                                     | open   |
+| DataflowTemplates                  | update & add jdbc template https://github.com/GoogleCloudPlatform/DataflowTemplates/pull/371                                                                                     | close   |
